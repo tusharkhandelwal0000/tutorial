@@ -1,1 +1,2 @@
-# tutorial
+# tushar
+#my first github repository
